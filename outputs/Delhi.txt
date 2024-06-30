@@ -1,0 +1,12 @@
+Number of tables found: 1
+Table attributes: {'class': ['table']}
+
+First few rows of the table:
+['Party', 'Won', 'Leading', 'Total']
+['Bharatiya Janata Party - BJP', '7', '0', '7']
+['Total', '7', '0', '7']
+
+Table contents :
+                       Party  Won  Leading  Total
+Bharatiya Janata Party - BJP    7        0      7
+                       Total    7        0      7
